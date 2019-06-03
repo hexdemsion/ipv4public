@@ -3,8 +3,8 @@
 # <bitbar.version>v1</bitbar.version>
 # <bitbar.author>Malhadi Jr</bitbar.author>
 # <bitbar.author.facebook>https://facebook.com/malhadi.jr</bitbar.author.facebook>
-# <bitbar.desc>Displays current information about IP public (City, Country (IP)) and daily Islam pray time</bitbar.desc>
-# <bitbar.dependencies>Bash GNU JQ CURL afplay</bitbar.dependencies>
+# <bitbar.desc>Displays current information about IP public (City, Country (IP))</bitbar.desc>
+# <bitbar.dependencies>Bash GNU JQ CURL</bitbar.dependencies>
 
 export PATH=/usr/local/bin:$PATH
 folder_path="/Users/malhadijr/Project/bitbar/file-data"
