@@ -1,11 +1,7 @@
 # ipv4public
 Show public IPv4 address in macOS menu bar
 
-Online
 ![view when online](https://github.com/hexdemsion/ipv4public/blob/master/Annotation%202020-07-05%20074740.jpg?raw=true)
-
-Offline
-![view when offline](https://github.com/hexdemsion/ipv4public/blob/master/Annotation%202020-07-05%20075040.jpg?raw=true)
 
 # dependencies
 https://github.com/matryer/bitbar
